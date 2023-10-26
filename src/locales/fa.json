@@ -1,0 +1,18 @@
+{
+  "hello": "سلام",
+  "welcome_message": "به این برنامه خوش آمدید",
+  "user_profile": "پروفایل",
+  "dashboard": "داشبورد",
+  "todo_list": "لیست کارها",
+  "weather": "آب و هوا",
+  "current_time": "زمان دقیق",
+
+  "buttons": {
+    "save": "ذخیره",
+    "add": "اضافه کن"
+  },
+  "placeholders": {
+    "name": "نام خود را وارد کنید",
+    "add_todo": "وارد کردن کاری به لیست"
+  }
+}

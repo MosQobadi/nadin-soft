@@ -1,28 +1,17 @@
 <template>
   <div class="home">
-    <Dashboard />
+    <UserProfile />
   </div>
 </template>
 
 <script lang="ts">
 import { Options, Vue } from 'vue-class-component';
-import Dashboard from '@/components/Dashboard.vue'
+import UserProfile from '@/components/UserProfile.vue'
 
 @Options({
   components: {
-    Dashboard
+    UserProfile
   },
 })
 export default class HomeView extends Vue { }
 </script>
-
-
-<style>
-.home {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
-  width: 100%;
-}
-</style>

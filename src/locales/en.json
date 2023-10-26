@@ -1,0 +1,17 @@
+{
+  "hello": "Hello",
+  "welcome_message": "Welcome to my app",
+  "user_profile": "Profile",
+  "dashboard": "Dashboard",
+  "todo_list": "Todo List",
+  "weather": "Weather",
+  "current_time": "Current Time",
+  "buttons": {
+    "save": "Save",
+    "add": "Add"
+  },
+  "placeholders": {
+    "name": "Enter Your Name",
+    "add_todo": "Enter a Task to do"
+  }
+}
